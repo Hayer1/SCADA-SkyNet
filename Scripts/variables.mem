@@ -1,0 +1,87 @@
+temp2;script
+v1;v1@script;1;Numeric;0;v1
+v1k;v1k@script;1;Numeric;0;v1k
+v2;v2@script;1;Numeric;0;v2
+v2k;v2k@script;1;Numeric;0;v2k
+w1;w1@script;1;Numeric;0;w1
+w1k;w1k@script;1;Numeric;0;w1k
+w2;w2@script;1;Numeric;0;w2
+w2k;w2k@script;1;Numeric;0;w2k
+t1;t1@script;1;Numeric;0;t1
+t11;t11@script;1;Numeric;0;t11
+t2;t2@script;1;Numeric;0;t2
+t12;t12@script;1;Numeric;0;t12
+t5;t5@script;1;Numeric;0;t5
+t6;t6@script;1;Numeric;0;t6
+Mach;connection
+T1on;H:10/0@connection;1;Numeric;0;T1-on
+T2on;H:10/1@connection;1;Numeric;0;T2-on
+T3on;H:10/2@connection;1;Numeric;0;T3-on
+T4on;H:10/3@connection;1;Numeric;0;T4-on
+T5on;H:10/4@connection;1;Numeric;0;T5-on
+H:10/5;H:10/5@connection;1;Numeric;0;H:10/5
+HVOn;H:10/6@connection;1;Numeric;0;HV-On
+T1max;H:11@connection;1;Numeric;0;T1 max
+Restart;H:39/0@connection;1;Numeric;0;Restart
+TS;H:39/1@connection;1;Numeric;0;TS
+PK;H:39/2@connection;1;Numeric;0;PK
+TS2;H:39/3@connection;1;Numeric;0;TS2
+H:39/4;H:39/4@connection;1;Numeric;0;H:39/4
+H:39/5;H:39/5@connection;1;Numeric;0;H:39/5
+H:39/6;H:39/6@connection;1;Numeric;0;H:39/6
+H:39/7;H:39/7@connection;1;Numeric;0;H:39/7
+H:39/8;H:39/8@connection;1;Numeric;0;H:39/8
+H:39/9;H:39/9@connection;1;Numeric;0;H:39/9
+T1i;Hn:0@connection;1;Numeric;0;T1i
+T2i;Hn:1@connection;1;Numeric;0;T2i
+T1min;Hn:12@connection;1;Numeric;0;T1 min
+T2max;Hn:13@connection;1;Numeric;0;T2 max
+T2min;Hn:14@connection;1;Numeric;0;T2 min
+T3max;Hn:15@connection;1;Numeric;0;T3 max
+T3min;Hn:16@connection;1;Numeric;0;T3 min
+T4max;Hn:17@connection;1;Numeric;0;T4 max
+T4min;Hn:18@connection;1;Numeric;0;T4 min
+T5max;Hn:19@connection;1;Numeric;0;T5 max
+T3i;Hn:2@connection;1;Numeric;0;T3i
+T5min;Hn:20@connection;1;Numeric;0;T5 min
+T52Vizm;Hn:21@connection;1;Numeric;0;T5-2Vizm
+T52max;Hn:22@connection;1;Numeric;0;T5-2-max
+T52min;Hn:23@connection;1;Numeric;0;T5-2-min
+HVi;Hn:24@connection;1;Numeric;0;HVi
+HVVizm;Hn:25@connection;1;Numeric;0;HVVizm
+HVMax;Hn:26@connection;1;Numeric;0;HV-Max
+HVmin;Hn:27@connection;1;Numeric;0;HV-min
+T4i;Hn:3@connection;1;Numeric;0;T4i
+T5i;Hn:4@connection;1;Numeric;0;T5i
+T1Vizm;Hn:5@connection;1;Numeric;0;T1Vizm
+T2Vizm;Hn:6@connection;1;Numeric;0;T2Vizm
+T3Vizm;Hn:7@connection;1;Numeric;0;T3Vizm
+T4Vizm;Hn:8@connection;1;Numeric;0;T4Vizm
+T5Vizm;Hn:9@connection;1;Numeric;0;T5Vizm
+F3f2;R:2@connection;1;Numeric;0;F3-f-2
+SMOut;R:5/1@connection;1;Numeric;0;SM-Out
+ККБ1;R:5/2@connection;1;Numeric;0;ККБ1
+Байпас;R:5/3@connection;1;Numeric;0;Байпас
+NKD;R:5/4@connection;1;Numeric;0;NKD
+NKP;R:5/5@connection;1;Numeric;0;NKP
+Semistor;R:5/6@connection;1;Numeric;0;Semistor
+Semistor2;R:5/7@connection;1;Numeric;0;Semistor 2
+NKPShim;R:5/8@connection;1;Numeric;0;NKP-Shim
+NKDShim;R:5/9@connection;1;Numeric;0;NKD-Shim
+NKDEShim;R:6@connection;1;Numeric;0;NKD-E-Shim
+NKPEShim;R:8@connection;1;Numeric;0;NKP-E-Shim
+T1f;Rn:0@connection;1;Numeric;0;T1-f
+T2f;Rn:1@connection;1;Numeric;0;T2-f
+FanOut;Rn:10@connection;1;Numeric;0;Fan-Out
+FanIn;Rn:11@connection;1;Numeric;0;Fan-In
+SM4;Rn:12@connection;1;Numeric;0;SM4
+Out1;Rn:14@connection;1;Numeric;0;Out1
+Out2;Rn:15@connection;1;Numeric;0;Out2
+Out3;Rn:16@connection;1;Numeric;0;Out3
+Out4;Rn:17@connection;1;Numeric;0;Out4
+T3f;Rn:2@connection;1;Numeric;0;T3-f
+T4f;Rn:3@connection;1;Numeric;0;T4-f
+T5f;Rn:4@connection;1;Numeric;0;T5-f
+SMIn;Rn:5/0@connection;1;Numeric;0;SM-In
+HVf;Rn:7@connection;1;Numeric;0;HV-f
+ByPass;Rn:9@connection;1;Numeric;0;ByPass

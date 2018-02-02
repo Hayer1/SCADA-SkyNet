@@ -1,0 +1,2 @@
+DatalogNo;Name;RefreshRead;RefreshLog;Condition;ConditionAlarmsID;ConditionContinuous;SamplesBefore;SamplesAfter;MaxSize;ViewAccess;Connection;OlderThen
+1;default;1000;1000;NO; ;NO;0;0;80.000;-1;connection;31536000

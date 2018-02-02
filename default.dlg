@@ -1,0 +1,2 @@
+ID;Name;Tag;Unit;Hysteresis;DeltaAbs;DefaulDatalog;Description;Format;Alias;Type
+1;Your tag;H:0@connection;Unit;NO;0.0;YES;Your tag;#.##;H:0;0

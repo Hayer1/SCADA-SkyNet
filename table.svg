@@ -1,0 +1,35 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" version="1.1" width="986" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0 0 986 620" height="620" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" xmlns="http://www.w3.org/2000/svg">
+<style id="mySCADAFontCSSs" xml:space="preserve">
+@font-face{font-family:&apos;Ubuntu&apos;;src:url(&apos;Fonts/Ubuntu-R.ttf#Ubuntu&apos;),url(&apos;Fonts/Ubuntu-RI.ttf#Ubuntu Italic&apos;);}@font-face{font-family:&apos;Tahoma&apos;;src:url(&apos;Fonts/tahoma.ttf#Tahoma&apos;),url(&apos;Fonts/tahomabd.ttf#Tahoma Полужирный&apos;);}</style>
+<defs/>
+<rect x="0" width="986" y="0" height="620" id="pozadiNoSeL" style="fill:#ffffff;stoke:#ffffff;"/>
+<style type="text/css" xml:space="preserve">
+* {    -webkit-touch-callout: none;    -webkit-user-select: none; /* Disable selection/Copy of UIWebView */}</style>
+<g inkscape:groupmode="layer" inkscape:layerlabel="Background" id="layer0">
+<text x="699" y="25" id="text0002" style="font-weight:normal;font-size:26pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 -10 71)">
+Data clicked row:</text>
+<text x="699" y="25" id="text0003" style="font-weight:normal;font-size:26pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 -11.912322998046875 141.3385467529297)">
+Time:</text>
+<text x="699" y="25" id="text0004" style="font-weight:normal;font-size:26pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 -11.912322998046875 256.33856201171875)">
+Tag value:</text>
+<text x="699" y="25" id="text0005" style="font-weight:normal;font-size:22pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 -4.295989990234375 187.3385467529297)" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;=clickedTime&quot;,&quot;alias&quot;:&quot;=clickedTime&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Date&quot;,&quot;param&quot;:&quot;Date+Time&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}">
+time</text>
+<text x="699" y="25" id="text0006" style="font-weight:normal;font-size:26pt;font-family:&apos;Tahoma&apos;;font-style:normal;fill:#000000;stroke:none;" transform="matrix(1 0 0 1 172.88848876953125 257.3793640136719)" inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;=clickedValue&quot;,&quot;alias&quot;:&quot;=clickedValue&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;type&quot;:&quot;Value&quot;,&quot;param&quot;:&quot;Decimal&quot;,&quot;stringType&quot;:&quot;10;0;Automatic&quot;}">
+#.#</text>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea">
+<g id="g0001" myscada:ActiveAreaData="{&quot;attr&quot;:&quot;aa&quot;,&quot;id&quot;:1,&quot;type&quot;:0,&quot;value&quot;:&quot;&quot;,&quot;zindex&quot;:1,&quot;x&quot;:0.0,&quot;y&quot;:0.0,&quot;width&quot;:677.0,&quot;height&quot;:620.0,&quot;parentid&quot;:&quot;&quot;,&quot;zoomable&quot;:false,&quot;openData&quot;:{&quot;type&quot;:&quot;dlg&quot;,&quot;screen&quot;:&quot;defaultView&quot;,&quot;topToolbar&quot;:true,&quot;bottomToolbar&quot;:true,&quot;scaleTime&quot;:60,&quot;colorTransparent&quot;:true,&quot;color&quot;:&quot;#F0F0F0&quot;,&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;rowClickScript&quot;:&quot;noRowClick&quot;,&quot;textScale&quot;:100,&quot;zoom&quot;:&quot;automatic&quot;},&quot;transparent&quot;:false,&quot;mapOverlay&quot;:false}" inkscape:componentData="{}" inkscape:componentSize="0.0;0.0;677.0;620.0" inkscape:label="{&quot;attr&quot;:&quot;open&quot;,&quot;command&quot;:&quot;&quot;,&quot;newWindow&quot;:&quot;&quot;,&quot;target&quot;:&quot;-1&quot;,&quot;lockEnable&quot;:&quot;No&quot;,&quot;openData&quot;:{&quot;target&quot;:-1,&quot;lockEnable&quot;:false,&quot;textScale&quot;:100}}">
+<g>
+<rect x="0" width="676.9999999999999" y="0" id="rect0001" height="620" style="fill:#e6e6e6;stroke:#000000; stroke-width:1;stroke-dasharray:6,6;stroke-linecap:butt;stroke-linejoin:miter;"/>
+</g>
+<g inkscape:componentalign="tl">
+<text x="58" id="text0001" y="49" style="fill:#000000;stroke:none; font-family:&quot;Ubuntu&quot;; font-size:12pt; font-style:normal; font-weight:normal;" transform="matrix(1 0 0 1 -53 -34)">
+Active Area</text>
+</g>
+<g inkscape:componentalign="cc">
+<text x="323.5" y="227.5" style="fill:#000000;stroke:none; font-family:&quot;Ubuntu&quot;; font-size:24pt; font-style:normal; font-weight:normal;" transform="matrix(1 0 0 1 7.604171752929631 93.58853912353516)">
+1</text>
+</g>
+</g>
+</g>
+</svg>

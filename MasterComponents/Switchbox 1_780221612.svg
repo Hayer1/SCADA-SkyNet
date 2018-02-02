@@ -1,0 +1,27 @@
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" id="prefix_id_Layer_1" enable-background="new 0 0 200 200" version="1.1" width="137.0" xml:space="preserve" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" preserveAspectRatio="xMidYMid meet" xmlns:myscada="http://www.myscada.org" viewBox="0.0 0.0 137.0 48.0" inkscape:componentSize="0.0;0.0;1.0;1.0" inkscape:voditka="{&quot;voditkoHorValues&quot;:[],&quot;voditkoVerValues&quot;:[]}" height="48.0" xmlns="http://www.w3.org/2000/svg" inkscape:componentData="{&quot;attr&quot;:&quot;Comp&quot;,&quot;name&quot;:&quot;Component Name&quot;,&quot;desc&quot;:&quot;Component Description&quot;,&quot;author&quot;:&quot;mySCADA Team&quot;,&quot;uniqueID&quot;:&quot;257b3fbd1f&quot;,&quot;MasterID&quot;:&quot;780221612&quot;,&quot;list&quot;:[{&quot;variableName&quot;:&quot;tag&quot;,&quot;name&quot;:&quot;Tag&quot;,&quot;desc&quot;:&quot;Enter tag&quot;,&quot;value&quot;:&quot;H:10/0@connection&quot;,&quot;valueSub&quot;:&quot;T1-on&quot;,&quot;type&quot;:0,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color&quot;,&quot;name&quot;:&quot;Foreground color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#3399FF&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}},{&quot;variableName&quot;:&quot;color2&quot;,&quot;name&quot;:&quot;Background color&quot;,&quot;desc&quot;:&quot;Set color&quot;,&quot;value&quot;:&quot;#2A3D4F&quot;,&quot;valueSub&quot;:&quot;&quot;,&quot;type&quot;:4,&quot;hide&quot;:false,&quot;translate&quot;:false,&quot;translations&quot;:{}}]}" x="0px" y="0px">
+<defs/>
+<rect x="0" width="137.0" id="pozadiNoSeL" height="48.0" y="0" style="fill:#ffffff;stoke:#ffffff;"/>
+<g inkscape:groupmode="layer" inkscape:layerlabel="Background" id="layer0">
+<g>
+<path style="fill:#D1D3D4;" d="M168,119c0,2.762-2.238,5-5,5H36c-2.761,0-5-2.238-5-5V81c0-2.761,2.239-5,5-5h127c2.762,0,5,2.239,5,5V119   z" transform="matrix(1 0 0 1 -31 -76)"/>
+<path style="fill:#808285;" d="M31,119V81c0-2.76,2.262-5,5.021-5H83v48H36.021C33.262,124,31,121.76,31,119z" transform="matrix(1 0 0 1 -31 -76)"/>
+<g>
+<rect x="30" width="2" height="20" y="14" style="fill:#747577;"/>
+<rect x="25" width="2" height="20" y="14" style="fill:#747577;"/>
+<rect x="20" width="2" height="20" y="14" style="fill:#747577;"/>
+</g>
+<path style="fill:#FFFFFF;" d="M136.164,105.499l-5.5-5.5l5.5-5.499c1.367-1.367,1.324-3.626-0.098-5.047   c-1.42-1.42-3.68-1.464-5.046-0.097l-5.499,5.499l-5.5-5.499c-1.366-1.367-3.626-1.324-5.046,0.097   c-1.421,1.42-1.464,3.68-0.097,5.047l5.498,5.499l-5.498,5.5c-1.367,1.366-1.324,3.626,0.096,5.046   c1.421,1.422,3.681,1.465,5.047,0.098l5.5-5.5l5.499,5.5c1.366,1.367,3.626,1.324,5.047-0.098   C137.488,109.125,137.531,106.865,136.164,105.499z" transform="matrix(1 0 0 1 -31 -76)"/>
+</g>
+<g inkscape:lblTemplate="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;tag&quot;,&quot;alias&quot;:&quot;&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;max&quot;:&quot;1&quot;}" id="prefix_id_g0001" style="visibility:visible;" inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;tag&quot;:&quot;H:10/0@connection&quot;,&quot;alias&quot;:&quot;T1-on&quot;,&quot;plcName&quot;:&quot;&quot;,&quot;min&quot;:&quot;1&quot;,&quot;max&quot;:&quot;1&quot;},{&quot;attr&quot;:&quot;Component&quot;,&quot;parentID&quot;:&quot;prefix_id_Layer_1&quot;}">
+<path inkscape:vypln="color2,100" id="prefix_id_path0002" d="M168,119c0,2.762-2.238,5-5,5H36c-2.761,0-5-2.238-5-5V81c0-2.761,2.239-5,5-5h127c2.762,0,5,2.239,5,5V119   z" style="fill:#2A3D4F;" transform="matrix(1 0 0 1 -31 -76)"/>
+<path inkscape:vypln="color,100" id="prefix_id_path0001" d="M168,81v38c0,2.76-2.219,5-4.979,5H116V76h47.021C165.781,76,168,78.24,168,81z" style="fill:#3399FF;" transform="matrix(1 0 0 1 -31 -76)"/>
+<path inkscape:vypln="color,100" d="M87.044,89.126c-1.432-1.434-3.756-1.434-5.188,0l-13.05,13.05l-3.618-3.616   c-1.434-1.434-3.756-1.434-5.188,0c-1.434,1.433-1.434,3.756,0,5.189l6.131,6.131c0.736,0.736,1.708,1.088,2.675,1.066   c0.964,0.021,1.936-0.33,2.673-1.066l15.565-15.566C88.478,92.882,88.478,90.559,87.044,89.126z" style="fill:#3399FF;" transform="matrix(1 0 0 1 -31 -76)"/>
+<g id="prefix_id_g0002">
+<rect x="105" y="14" width="2" style="fill:#000000;fill-opacity:0.09;" rx="0" id="prefix_id_rect0001" ry="0" height="20"/>
+<rect x="110" y="14" width="2" style="fill:#000000;fill-opacity:0.09;" rx="0" id="prefix_id_rect0002" ry="0" height="20"/>
+<rect x="115" y="14" width="2" style="fill:#000000;fill-opacity:0.09;" rx="0" id="prefix_id_rect0003" ry="0" height="20"/>
+</g>
+</g>
+</g>
+<g inkscape:groupmode="layer" myscada:layerActiveArea="YES" id="layer1" inkscape:layerlabel="ActiveArea"/>
+</svg>

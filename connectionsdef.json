@@ -1,0 +1,1 @@
+{"connections":[{"plcType":11,"alias":"script","id":-1,"ip":"","disableWrites":false},{"plcType":6,"alias":"connection","id":-1,"ip":"192.168.1.102","port":1504,"disableWrites":false,"optwindow":50,"hide":false,"deviceID":1}]}

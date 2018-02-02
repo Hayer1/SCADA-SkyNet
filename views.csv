@@ -1,0 +1,3 @@
+Refresh;Name;Description;Connection alias;zoomEnabled;View Access;Write Access;Layout;LayoutMobile;PersistentRead;DefaultZoom;ShowInMenu;Key;KeyControl;Sound
+1000;main;;connection;Yes;-1;-1;layout;;No;fittopage;Yes;;0000;
+1000;viewValue;Show value;connection;Yes;-1;-1;;;No;fittopage;Yes;;0000;

@@ -1,0 +1,4 @@
+Refresh;Name;Description;Connection alias;zoomEnabled;View Access;Write Access
+1000;Датч;;connection;Yes;-1;-1
+1000;Задатч;;connection;Yes;-1;-1
+1000;ProgTest;Программы тестирования;connection;Yes;-1;-1
